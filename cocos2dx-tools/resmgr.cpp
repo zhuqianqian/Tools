@@ -103,7 +103,7 @@ int process(cstrptr fn, cstrptr bufi, cstrptr bufo) {
 	}
 	fwrite(bufo, sizeof(char), foutSize, fout);
 	if (fh != NULL) {
-		fprintf(fh, "};");
+		fprintf(fh, "    _not_used\n};");
 		fclose(fh);
 	}
 	fclose(fout);
