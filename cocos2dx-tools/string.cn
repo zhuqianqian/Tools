@@ -1,0 +1,12 @@
+<item id="new_game">新游戏</item>
+<item id="resume_game">继续游戏</item>
+<item id="score">分数</item>
+<item id="swipes">划动次数</item>
+<item id="best">高分记录</item>
+<item id="next_prev">接下来</item>
+<item id="game_over">游戏结束</item>
+<item id="new_best">新记录</item>
+<item id="back">返回</item>
+<item id="retry">重试</item>
+<item id="share">分享</item>
+<item id="leaderboard">高分排名</item>
