@@ -1,0 +1,38 @@
+Windows System Proxy Helper (WinPH) - Version 1.0
+A simple tool to set/change windows proxy (Internet Explorer proxy).
+Copyright (C) 2012, Zhu Qianqian
+Contact: zhuqianqian.299@gmail.com
+
+WinPH is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 3
+of the License, or (at your option) any later version.
+
+WinPH is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with WinPH; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, 
+MA 02110-1301, USA.
+
+-------------------------
+To build the project in a command line, you should firstly make
+sure you have Microsoft C/C++ compiler collection tools installed
+and the environment variables properly set so that commands like
+'CL', 'LINK' and 'NMAKE' can be executed.
+
+In command line, switch to this folder and type 'Autobuild' to
+generate the binary executable.
+
+-------------------------
+To build the executable in IDE, create a new project under Microsoft 
+Visual Studio 2008 or any later version. Add all the C header files(*.h),
+C source files(*.c), resource files (*.rc) including the "resource" folder
+to the project.
+
+Build the project to generate the executable file. You are
+recommended to build the release version.
+

@@ -1,0 +1,2 @@
+nmake
+nmake clean
